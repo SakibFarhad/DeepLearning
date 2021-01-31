@@ -1,0 +1,7 @@
+*.txt
+*.zip
+nltk_data/
+env/
+trainingandtestdata/
+ProjectReport/*
+!ProjectReport/main.tex
