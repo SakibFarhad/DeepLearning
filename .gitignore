@@ -3,5 +3,10 @@
 nltk_data/
 env/
 trainingandtestdata/
-ProjectReport/*
-!ProjectReport/main.tex
+ProjectReport/main.aux
+ProjectReport/main.bbl
+ProjectReport/main.blg
+ProjectReport/main.log
+ProjectReport/main.out
+ProjectReport/main.synctex.gz
+
